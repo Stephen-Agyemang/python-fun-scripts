@@ -11,3 +11,6 @@ This repository contains a collection of beginner-friendly Python scripts create
 1. **Clone this repository**:
    ```bash
    git clone git@github.com:Stephen-Agyemang/python-fun-scripts.git
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
