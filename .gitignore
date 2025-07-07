@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.env/
+
+# IDE/editor config folders
+.idea/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# SSH keys
+ssh key
+ssh key.pub
+
