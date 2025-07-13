@@ -4,7 +4,7 @@ This repository contains a collection of beginner-friendly Python scripts create
 
 ## 📜 What's Inside
 - 🎨 **Mad-Lib Game**: A simple word game where you fill in the blanks to create funny stories.  
-- 🤖 **Emoji-Filled Chatbot**: An interactive chatbot that responds with witty messages and emojis.  
+- 🤖 **Witty Chatbot**: An interactive chatbot that responds with witty messages.  
 - 🧮 **Calculator Script**: A basic calculator for performing arithmetic operations and square roots.
 
 ## 💻 How to Run
