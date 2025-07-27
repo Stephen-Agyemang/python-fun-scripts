@@ -3,7 +3,7 @@
 This repository contains a collection of beginner-friendly Python scripts created by **Agyemang Stephen** as part of a learning journey into programming. 🚀
 
 ## 📜 What's Inside
-- 🎨 **Mad-Lib Game**: A simple word game where you fill in the blanks to create funny stories.  
+- 🎨 **Mad-Lib Game**: A word game that blends color validation, plural noun checks, replay logic, and witty prompts. Now in v2.0!  
 - 🤖 **Witty Chatbot**: An interactive chatbot that responds with witty messages.  
 - 🧮 **Calculator Script**: A basic calculator for performing arithmetic operations and square roots.
 
